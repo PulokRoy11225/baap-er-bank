@@ -14,7 +14,7 @@ document.getElementById('btn-submit').addEventListener('click', function(){
   const password = passwordField.value;
   // console.log(email,password);
   // step-4: verify email and password
-  if(email==='pulokr221@gmail.com' && password==='pulok1'){
+  if(email==='sarwarjahan.cse4@gmail.com' && password==='sarwar1'){
     // console.log('valid user')
     window.location.href = 'bank.html';
   }else{
